@@ -45,7 +45,7 @@
     <ePixmap pixmap="border/smallshadowline.png" position="0,1020" size="1920,2" zPosition="2" />
   </screen>
   <screen name="BackgroundTemplate">
-    <ePixmap pixmap="PLi-FullNightHD2/window/backblue.png" position="0,90" size="780,930" zPosition="-1" />
+    <ePixmap pixmap="PLi-FullNightHD2/window/backblue.png" position="0,90" size="775,930" zPosition="-1" />
   </screen>
   <screen name="TextTemplate">
     <widget name="text" position="30,528" size="720,481" backgroundColor="secondBG" transparent="1" zPosition="1" font="Regular;30" />
